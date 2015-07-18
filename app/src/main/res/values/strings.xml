@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Collapsible</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_3">Menu 3</string>
+    <string name="menu_2">Menu 2</string>
+    <string name="menu_1">Menu 1</string>
+    <string name="card_text">I love Android I love Android I love Android I love Android I love Android I love Android I love Android I love Android I love Android I love Android I love Android I love Android I love Android I love Android </string>
+</resources>
